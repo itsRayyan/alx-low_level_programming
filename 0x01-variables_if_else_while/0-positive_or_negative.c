@@ -1,10 +1,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* more headers goes there */
-
 /*
  * main - positive or negative
+ * Return: Always 0 (Sucess)
  */
 int main(void)
 {
